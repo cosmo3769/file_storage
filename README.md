@@ -7,5 +7,3 @@ When user uploads any file at the client side to the server, it is generally sub
 **Multer** is a middleware of node and express which makes this task easy of uploading files as multipart/form data.
 
 ## setup
-
-In any 
